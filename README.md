@@ -1,0 +1,2 @@
+# vanilla.cash
+Vanilla.Cash
