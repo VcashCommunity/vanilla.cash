@@ -1,2 +1,1 @@
-# vanilla.cash
-Vanilla.Cash
+# Site Source Code [Vanilla.Cash](https://vanilla.cash)
