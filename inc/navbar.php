@@ -35,7 +35,7 @@
           </a>
           <ul class="dropdown-menu" role="menu">
             <li>
-            <a href="https://docs.vanilla.cash">Docs </a>
+            <a href="https://vanilla.cash/docs/index.html">Docs </a>
             </li>
             <li>
             <a href="papers/vanillacoin.pdf">White Paper </a>
@@ -59,7 +59,7 @@
             <a href="https://vcash.community">Forum </a>
             </li>
             <li>
-            <a href="https://zeroslot.io">ZeroSlot </a>
+            <a href="http://zeroslot.io">ZeroSlot </a>
             </li>
             <li>
             <a href="https://blog.vanilla.cash" target="_blank">Blog </a>
