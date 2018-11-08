@@ -35,7 +35,7 @@
           </a>
           <ul class="dropdown-menu" role="menu">
             <li>
-            <a href="https://vanilla.cash/docs/index.html">Docs </a>
+            <a href="https://vanilla.cash/docs">Docs </a>
             </li>
             <li>
             <a href="papers/vanillacoin.pdf">White Paper </a>
@@ -67,6 +67,10 @@
             <li>
             <a href="https://twitter.com/Vcashcommunity" target="_blank">Twitter </a>
             </li>
+            <li>
+            <a href="https://t.me/vcash">Telegram </a>
+            </li>
+            <li>
             <li>
             <a href="https://www.reddit.com/r/Vcash/">Reddit </a>
             </li>
