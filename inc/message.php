@@ -1,5 +1,5 @@
   <div class="alert alert-dismissable alert-warning">
     <span class="glyphicon glyphicon-warning-sign">
     </span>
-    <button type="button" class="close" data-dismiss="alert">× </button> Version 0.6.0.2 out, please upgrade your nodes. Current 0.5.1 users will have to resynch the chain.
+    <button type="button" class="close" data-dismiss="alert">× </button> Version 0.6.0.4 binaries are outdated bootstrap nodes, update their nodes through the vanilla branch source code. Current users of 0.5.1 and versions will have to resynchronize the chain. Make backups before any action!!!
   </div>

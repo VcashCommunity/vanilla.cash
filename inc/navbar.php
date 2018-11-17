@@ -26,17 +26,17 @@
           <li>
           <a href="faq.php">FAQ </a>
           </li>
+            <li>
+            <a href="https://vanilla.cash/docs">Docs </a>
+            </li>
           <li>
-          <a href="network.php">Network </a>
+          <a href="https://vcash.network/">Network </a>
           </li>
           <li class="dropdown">
           <a href="papers/vanillacoin.pdf" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Resources <span class="caret">
           </span>
           </a>
           <ul class="dropdown-menu" role="menu">
-            <li>
-            <a href="https://vanilla.cash/docs">Docs </a>
-            </li>
             <li>
             <a href="papers/vanillacoin.pdf">White Paper </a>
             </li>

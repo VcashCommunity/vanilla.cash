@@ -45,7 +45,7 @@
       </p>
       <h3 id="panels-alternatives">Where can I buy Vcash? </h3>
       <p>
-        Currently at <a href="https://bittrex.com/Market/Index?MarketName=BTC-XVC" target="_blank">Bittrex </a> or <a href="https://poloniex.com/exchange#btc_xvc" target="_blank">Poloniex</a>.
+        Vcash Currently listed only on the <a href="https://zapple.com/exchange" target="_blank">Zapple</a>, Vcash Was unlisted from <a href="https://poloniex.com/exchange#btc_xvc" target="_blank">Poloniex</a> and <a href="https://bittrex.com/Market/Index?MarketName=BTC-XVC" target="_blank">Bittrex </a>.
       </p>
       <h3 id="panels-alternatives">Why is interest only 0.7%? </h3>
       <p>
