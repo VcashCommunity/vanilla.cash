@@ -35,6 +35,15 @@
   <div class="panel panel-default">
     <div class="panel-body">
       <p>
+        <a name="0020">
+        <h3 id="panels-alternatives">Vcash is now only maintained by its former enthusiasts!</h3>
+        </a>
+        <h4>by Wallison Alves | February 5, 2019 | Development Updates</h4>
+        <p>
+          Vcash does not have any major developers, not even the old developers are active, no big exchange, the site that was maintained by xCoreDev was also turned off, and now there is only one community keeping the Vcash blockchain alive. Vcash leaves a legacy that is: "A true blockchain will never die!". Version 0.6.0.4 binaries are outdated bootstrap nodes, update their nodes through the <a href="https://github.com/vcashcommunity/vcash/tree/vanilla">vanilla</a>, branch source code. Current users of 0.5.0 and versions will have to resynchronize the chain. Make backups before any action!!!
+        </p>
+      </p>
+      <p>
         <a name="0019">
         <h3 id="panels-alternatives">Version 0.6.0.4 Released</h3>
         </a>
@@ -312,7 +321,7 @@
         </a>
         <h4>by John Connor | September 28, 2015 | Development Updates</h4>
         <p>
-          Today we have released version 0.3.7 as a mandatory upgrade. This means everyone must upgrade to the latest version. This upgrade brings enforcement of incentive payments as well as collateral backed voting. Incentive payment enforcment goes into effect at block #220000 and collateral backed voting goes into effect at block #220000 respectively. Additionaly this upgrade includes general bug fixes and performance improvements. More information regarding Node Incentives can be found at <a href="wiki/index.html">the wiki</a>. You can download version 0.3.7 <a href="wallets.php">here</a>.
+          Today we have released version 0.3.7 as a mandatory upgrade. This means everyone must upgrade to the latest version. This upgrade brings enforcement of incentive payments as well as collateral backed voting. Incentive payment enforcment goes into effect at block #220000 and collateral backed voting goes into effect at block #220000 respectively. Additionaly this upgrade includes general bug fixes and performance improvements. More information regarding Node Incentives can be found at <a href="https://vanilla.cash/docs">the wiki</a>. You can download version 0.3.7 <a href="wallets.php">here</a>.
         </p>
       </p>
     </div>

@@ -65,7 +65,11 @@
       </p>
       <h3 id="panels-alternatives">What is ZeroTime? </h3>
       <p>
-        With other crypto-currencies you must wait for some time to pass before the coins are truly yours and spendable. ZeroTime is a breakthrough technology that allows a recipient to immediately not only own the coins but be able to spend them immediately. Furthermore they may be re-spent many times between other recipients before being consolidated into the ledger. Please refer to the <a href="#">white paper </a> for additional information.
+        With other crypto-currencies you must wait for some time to pass before the coins are truly yours and spendable. ZeroTime is a breakthrough technology that allows a recipient to immediately not only own the coins but be able to spend them immediately. Furthermore they may be re-spent many times between other recipients before being consolidated into the ledger. Please refer to the <a href="https://github.com/openvcash/papers/blob/master/zerotime.pdf">white paper </a> for additional information.
+      </p>
+      <h3 id="panels-alternatives">What is ChainBlender? </h3>
+      <p>
+       Client-side blending system. Forms a single transaction from multiple parties by merging similar inputs and outputs, and relaying these operations in an encrypted manner between the participants. The middleman is reduced to a blind relay and the participants are unable to reconstruct the original inputs from the blended transaction. Please refer to the <a href="https://github.com/openvcash/papers/blob/master/chainblender.pdf">white paper </a> for additional information.
       </p>
       <h3 id="panels-alternatives">Why is there so much FUD (Fear Uncertainty Doubt) and disinformation surrounding this project? </h3>
       <p>
@@ -73,7 +77,7 @@
       </p>
       <h3 id="panels-alternatives">Is there a wiki for Vcash? </h3>
       <p>
-        The wiki can be found <a href="#">here </a>.
+        The wiki can be found <a href="https://vanilla.cash/docs">here </a>.
       </p>
     </div>
   </div>
