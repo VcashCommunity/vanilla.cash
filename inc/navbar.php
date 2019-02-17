@@ -56,32 +56,25 @@
           </a>
           <ul class="dropdown-menu" role="menu">
             <li>
-            <a href="https://vcash.community">Forum </a>
-            </li>
-            <li>
             <a href="http://zeroslot.io">ZeroSlot </a>
             </li>
             <li>
-            <a href="https://blog.vanilla.cash" target="_blank">Blog </a>
+            <a href="https://vcash.community">Forum </a>
             </li>
             <li>
-            <a href="https://twitter.com/Vcashcommunity" target="_blank">Twitter </a>
+            <a href="https://blog.vanilla.cash">Blog </a>
+            </li>
+            <li>
+            <a href="https://twitter.com/Vcashcommunity">Twitter </a>
             </li>
             <li>
             <a href="https://t.me/vcash">Telegram </a>
             </li>
             <li>
-            <li>
-            <a href="https://www.reddit.com/r/Vcash/">Reddit </a>
-            </li>
-            <li>
             <a href="https://gitter.im/openvcash/vcash">Gitter </a>
             </li>
             <li>
-            <a href="https://vcash.slack.com">Slack </a>
-            </li>
-            <li>
-            <a href="https://slack.vcash.info">Slack Invites </a>
+            <a href="https://www.reddit.com/r/Vcash/">Reddit </a>
             </li>
           </ul>
           </li>
